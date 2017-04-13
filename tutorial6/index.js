@@ -19,7 +19,7 @@ import { Executor } from 'drotto';
 
   try {
     console.log('Running four functions...');
-
+    
     const promises = executor.invokeAll([fn, fn, fn, fn], [[40000000], [20000000], [60000000], [30000000]]);
     const results = await Promise.all(promises);
 

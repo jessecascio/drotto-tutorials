@@ -18,6 +18,6 @@
     "babel-preset-env": "^1.3.3",
     "babel-preset-latest": "^6.16.0",
     "babel-runtime": "^6.22.0",
-    "drotto": "^0.2.2"
+    "drotto": "^0.3.0"
   }
 }
