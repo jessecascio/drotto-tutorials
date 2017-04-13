@@ -4,7 +4,7 @@ import { Executor } from 'drotto';
 
 /**
  * TUTORIAL 7
- *   Invoke multiple functions, waiting for first to
+ *   Invoke multiple functions, waiting for first to complete
  */
 
 (async () => {
